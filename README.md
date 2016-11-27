@@ -1,2 +1,2 @@
-# exerciciosjava
-Lista de exercícios java
+# Analise e Desenvolvimento de Sistemas
+Lista de exercícios Java
