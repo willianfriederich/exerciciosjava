@@ -1,2 +1,2 @@
 # Analise e Desenvolvimento de Sistemas
-Lista de exercícios Java
+Repositorio dedicado para lista de exercícios em Java. 
